@@ -37,9 +37,4 @@ describe("tests for isEmpty", () => {
     test("should return false for array with values", () => {
         expect(isEmpty([1, 2, 3])).toBeFalsy();
     });
-
-
-
-
-
 });
