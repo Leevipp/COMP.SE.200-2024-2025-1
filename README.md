@@ -1,5 +1,18 @@
 # Student template
 
+Files that are going to be tested:
+
+- upperFirst.js
+- toInteger.js
+- filter.js
+- toNumber.js
+- ceil.js
+- clamp.js
+- difference.js
+- isEmpty.js
+- eq.js
+- defaultTo.js
+
 ## Purpose of this repository
 
 This is a project template for students participating in Software Testing course
