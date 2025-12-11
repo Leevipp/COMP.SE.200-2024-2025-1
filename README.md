@@ -1,5 +1,7 @@
 # Student template
 
+Group 9
+
 [![Coverage Status](https://coveralls.io/repos/github/Leevipp/COMP.SE.200-2024-2025-1/badge.svg?branch=main)](https://coveralls.io/github/Leevipp/COMP.SE.200-2024-2025-1?branch=main)
 
 Files that are going to be tested:
