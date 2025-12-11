@@ -1,5 +1,7 @@
 # COMP.SE.200 Software Testing Assignment
 
+Group 9
+
 [![Coverage Status](https://coveralls.io/repos/github/Leevipp/COMP.SE.200-2024-2025-1/badge.svg?branch=main)](https://coveralls.io/github/Leevipp/COMP.SE.200-2024-2025-1?branch=main)
 
 List of Tested files:
